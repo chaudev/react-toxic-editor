@@ -1,0 +1,28 @@
+{
+  "name": "react-toxic-editor",
+  "version": "1.0.0",
+  "description": "react-toxic-editor is a high-quality, feature-rich React-based text editor that offers a seamless user experience. With the ability to add images, links, and more, react-toxic-editor is the perfect solution for anyone looking for a powerful and flexible text editor, this editor is an excellent choice for your next project.",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "npm i react-toxic-editor"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaudev/react-toxic-editor.git"
+  },
+  "keywords": [
+    "react-toxic-editor",
+    "react-editor",
+    "toxic-editor",
+    "baochau",
+    "baochau9xx",
+    "ischau",
+    "ischau.org"
+  ],
+  "author": "baochau9xx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chaudev/react-toxic-editor/issues"
+  },
+  "homepage": "https://github.com/chaudev/react-toxic-editor#readme"
+}
